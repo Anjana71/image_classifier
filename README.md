@@ -71,7 +71,7 @@ Predicted class: 🐶 Dog
 ### 🔧 Option 1: Run Locally
 
 ```bash
-git clone https://github.com/your-username/image-classifier.git
+git clone https://github.com/Anjana71/image_classifier
 cd image-classifier
 pip install -r requirements.txt
 python app.py
